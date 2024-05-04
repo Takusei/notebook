@@ -1,0 +1,2 @@
+jupyterthemes == 0.20.0
+plotly == 5.0.0
